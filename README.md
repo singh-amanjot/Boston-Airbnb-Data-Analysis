@@ -28,15 +28,17 @@ For this project, I used the Jupiter notebook for analysing data which contained
 ## Dataset Access
 
 For this data analysis, I used publicly available data of Airbnb Boston at kaggle.com. This data was available in form of three CSV files: 
-calendar.csv, listings.csv and reviews.csv
+* calendar.csv
+* listings.csv
+* reviews.csv
 
 <!-- Motivation for Project -->
 ## Motivation for Project
 
 I wanted to learn about the factors which affect the Airbnb prices across a same city. Then using data analalysis, I wanted to answer the following questions:
-Which is the most popular region to stay in Boston?
-What is the price distribution in the city and which region is the most expensive?
-What are some of the factors deciding the rent of place?
+* Which is the most popular region to stay in Boston?
+* What is the price distribution in the city and which region is the most expensive?
+* What are some of the factors deciding the rent of place?
 
 <!-- Data Preparation -->
 ## Data Preparation

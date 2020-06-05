@@ -54,4 +54,4 @@ I used Jupiter Notebook to visualize data.
 <!-- Results -->
 ## Results
 
-The observations from the study are published in Medium.
+The observations from the study are published in [Medium](https://medium.com/@amanjot_singh/thinking-of-visiting-boston-take-a-look-at-this-airbnb-price-variation-in-boston-first-e395038711aa).
